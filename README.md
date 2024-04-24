@@ -1,3 +1,8 @@
+Hello! Welcome to my Github page. 
+
+
+
+
 
 I graduated college in 2014 through Central Lakes College with a 2 year robotics/automated systems technology A.A.S Degree. I then moved into a robotics/automation technician position where I have gained extensive knowledge in automation programming, mechanical/electrical, assembly/wiring as well as troubleshooting skills. 
 
