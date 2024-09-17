@@ -4,7 +4,7 @@ My name is Wyatt
 
 A little about my background...
 
-I graduated college in 2014 through Central Lakes College with a 2 year robotics/automated systems technology A.A.S Degree. I then moved into a robotics/automation technician position where I have gained extensive knowledge in automation programming, mechanical/electrical, assembly/wiring as well as troubleshooting skills. 
+I graduated college in 2014 through Central Lakes College with a 2 year robotics/automated systems technology A.A.S Degree. I then moved into a robotics/automation technician position where I have gained extensive knowledge in automation programming, mechanical/electrical, assembly/wiring design & troubleshooting skills. 
 
 In my most recent position I worked in an electrical designer role where I designed electrical schematics/2D panel layouts for control and power distribution enclosures for various applications such as reverse osmosis, gravity & horizontal pressure filter systems among many others in the water treatment industry.
 
